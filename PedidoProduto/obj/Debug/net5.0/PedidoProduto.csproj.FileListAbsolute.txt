@@ -1,0 +1,16 @@
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.csproj.AssemblyReference.cache
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.AssemblyInfoInputs.cache
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.AssemblyInfo.cs
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.csproj.CoreCompileInputs.cache
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.exe
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.deps.json
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.runtimeconfig.json
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.runtimeconfig.dev.json
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.dll
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\ref\PedidoProduto.dll
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\bin\Debug\net5.0\PedidoProduto.pdb
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.dll
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\ref\PedidoProduto.dll
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.pdb
+D:\Projetos VS 2019\PedidoProduto\PedidoProduto\obj\Debug\net5.0\PedidoProduto.genruntimeconfig.cache
